@@ -1,1 +1,2 @@
-# mtm6302-week1
+# MTM6302 - Web Dev III - Week 01
+Practicing Git branching
